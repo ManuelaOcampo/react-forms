@@ -1,0 +1,11 @@
+.title-table-container{
+    
+        width: 95%;
+        margin: 0 auto;
+        min-height: 75px;
+        border:2px solid blue;
+        margin-top: 10px;
+        font-weight: bold;
+        font-size: 50px;
+    
+}
